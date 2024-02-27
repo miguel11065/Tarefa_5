@@ -1,0 +1,16 @@
+Inicio
+	1 - Acordar
+	2 - Abrir os olhos 
+	3 - Olhar o celular
+	4 - Levantar da cama
+	5 - Ir ao banheiro
+	6 - Usar o banheiro
+	7 - Lavar as mãos
+	8 - Ir para a cozinha
+	9 - Tomar café da manhã
+	10 - Voltar ao banheiro
+	11 - Escovar os dentes
+	12 - Tomar banho
+	13 - Me vestir
+	14 - Voltar para o quarto
+Fim
